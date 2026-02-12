@@ -1,16 +1,35 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "f644a5273d5aad6018e3f74d8a9cf828ebaec434",
     "author": "Rubén Cordero",
     "commit": {
       "date": "2026-02-12T03:09:48.000Z",
       "message": "first commit",
-      "url": "/commit/HEAD"
+      "url": "/commit/f644a5273d5aad6018e3f74d8a9cf828ebaec434"
     },
     "stats": {
       "total": 0,
       "additions": 0,
       "deletions": 0,
+      "date": "2026-02-12"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Rubén Cordero",
+    "commit": {
+      "date": "2026-02-12T03:17:55.000Z",
+      "message": "multiplicador",
+      "url": "https://github.com/Ruben-Cordero/tarea4Soft/commit/HEAD"
+    },
+    "stats": {
+      "total": 40,
+      "additions": 38,
+      "deletions": 2,
       "date": "2026-02-12"
     },
     "coverage": 100,
